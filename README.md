@@ -1,5 +1,4 @@
-# 👋 ZajacMo Here
----
+# 👋 Zajac Here
 <div align="center">
     <a href="https://github.com/ZajacMo"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/ZajacMo" align="bottom"/></a>
     <a href="https://github.com/ZajacMo"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FZajacMo&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/></a>
@@ -14,17 +13,20 @@ I'm Zajac, currently an undergraduate student👨‍🎓 majoring in Computer Sc
 
 These repositories are where I'll put some of my usual course designs and research topics of interest. 
 
-I'm recently highly interested in research related to the deployment and application of LLMs on edge devices💻. Contact me📮 if there is any collaborative oppotunity.
+I'm recently highly interested in research related to the deployment and application of LLMs on edge devices💻. 
+
+Contact me📮 if there is any collaborative oppotunity.
 
 Whether you're here to learn, contribute, or just explore, I'm thrilled to have you! 🎉
 
 ## 🛠️ Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vue,anaconda,c,cpp,html,css,js,git,github,matlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,mysql,qt,java,latex,nodejs,sklearn,linux,postman)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vue,anaconda,c,cpp,html,css,js,git,github,matlab" alt="My Skills row 1">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,qt,java,latex,nodejs,sklearn,linux,postman" alt="My Skills row 2">
+</div>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZajacMo&show_icons=true&locale=en&layout=compact&theme=merko" alt="ZajacMo" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZajacMo&show_icons=true&locale=en&layout=compact&theme=merko" alt="ZajacMo" />
 </div>
 
 
@@ -33,7 +35,7 @@ Whether you're here to learn, contribute, or just explore, I'm thrilled to have 
 Got questions, ideas, collaboration or just want to say hi?
 
 - Create an [issue](https://github.com/ZajacMo/Zajac_Mo/issues) 📝
-- Send an email 📧 
+- Send an email 📧 at zonga_mo@foxmail.com
 - Carrier pigeon 🐦 (just kidding)
 
 ## 🎉 Final Words
