@@ -5,7 +5,7 @@
     <a href="https://github.com/ZajacMo"><img src="https://img.shields.io/github/stars/ZajacMo?style=flat-square&label=Stars&logo=github" align="bottom"/></a>
 </div>
 
-## 🚀 Welcome !
+<h3> 🚀 Welcome ! </h3>
 
 Hey there, curious human! 👨‍💻👩‍💻 You've stumbled upon something special. 
 
@@ -19,7 +19,7 @@ Contact me📮 if there is any collaborative oppotunity.
 
 Whether you're here to learn, contribute, or just explore, I'm thrilled to have you! 🎉
 
-## 🛠️ Languages and Tools
+<h3> 🛠️ Languages and Tools </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,anaconda,c,cpp,html,css,js,git,github,matlab" alt="My Skills row 1">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,qt,java,latex,nodejs,sklearn,linux,postman" alt="My Skills row 2">
@@ -30,7 +30,7 @@ Whether you're here to learn, contribute, or just explore, I'm thrilled to have 
 </div>
 
 
-## 📫 Get In Touch
+<h3> 📫 Get In Touch </h3>
 
 Got questions, ideas, collaboration or just want to say hi?
 
@@ -38,7 +38,7 @@ Got questions, ideas, collaboration or just want to say hi?
 - Send an email 📧 at zonga_mo@foxmail.com
 - Carrier pigeon 🐦 (just kidding)
 
-## 🎉 Final Words
+<h3> 🎉 Final Words </h3>
 
 Thanks for stopping by! The best way to learn is by doing, and the best code is written with passion. So go forth, create amazing things, and don't forget to have fun along the way! 🚀
 
