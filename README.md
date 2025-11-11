@@ -21,7 +21,7 @@ Whether you're here to learn, contribute, or just explore, I'm thrilled to have 
 
 <h3> 🛠️ Languages and Tools </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,anaconda,c,cpp,html,css,js,git,github,matlab" alt="My Skills row 1">
+    <img src="https://skillicons.dev/icons?i=vue,anaconda,c,cpp,html,css,js,git,matlab,docker" alt="My Skills row 1">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,qt,java,latex,nodejs,sklearn,linux,postman" alt="My Skills row 2">
 </div>
 
