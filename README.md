@@ -9,11 +9,11 @@
 
 Hey there, curious human! 👨‍💻👩‍💻 You've stumbled upon something special. 
 
-I'm Zajac, currently an undergraduate student👨‍🎓 majoring in Computer Science at South China University of Technology.
+I'm Zajac, currently an undergraduate student👨‍🎓 majoring in Computer Science at South China University of Technology, currently interning at Institute for AI Industry Rearsh, Tsinghua University.
 
 These repositories are where I'll put some of my usual course designs and research topics of interest. 
 
-I'm recently highly interested in research related to the deployment and application of LLMs on edge devices💻. 
+I'm recently highly interested in research related to inference and memory of LLMs at edge devices and embodied scenarios. 
 
 Contact me📮 if there is any collaborative oppotunity.
 
