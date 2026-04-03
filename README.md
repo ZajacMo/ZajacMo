@@ -35,7 +35,7 @@ Whether you're here to learn, contribute, or just explore, I'm thrilled to have 
 Got questions, ideas, collaboration or just want to say hi?
 
 - Create an [issue](https://github.com/ZajacMo/Zajac_Mo/issues) 📝
-- Send an email 📧 at zonga_mo@foxmail.com
+- Send an email 📧 at z.j.mo@outlook.com
 - Carrier pigeon 🐦 (just kidding)
 
 <h3> 🎉 Final Words </h3>
